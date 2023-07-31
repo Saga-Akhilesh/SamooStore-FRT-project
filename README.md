@@ -1,4 +1,4 @@
-# SamooStore-FRT-project
+# SamooStore-FRT-project 
 #Introduction
 This project is online store management. If a User wants to go shopping then the user can check out our "Samoo Store". This store has Variety of Watches, different types of Clothes and Old to new model Watches at affordable price.
 
@@ -19,3 +19,5 @@ Email : admin@gmail.com
 Password: admin123
 
 Azure Link: 
+
+Project done by Akhilesh, Harish, Sai Teja.
