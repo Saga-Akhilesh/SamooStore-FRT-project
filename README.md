@@ -18,6 +18,6 @@ Files:
 Email : admin@gmail.com
 Password: admin123
 
-Azure Link: 
+Azure Link: https://polite-desert-053768b10.3.azurestaticapps.net/
 
 Project done by Akhilesh, Harish, Sai Teja.
